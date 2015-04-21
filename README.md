@@ -1,2 +1,1 @@
-# ACO-DDVO
-ACO-DDVO is a tool coded by FORTRAN to support for optimization of irrigation scheduling. It represents the irrigation scheduling problem in the form of a decision tree and use ant colony optimization (ACO) as the optimization engine. It can dynamically adjust decision variable options during the optimization process. Therefore, ACO-DDVO is able to reduce search space size and increase the computational efficiency of ACO.algorithm.
+This branch contains the input data for both formuations 1 and 2.
