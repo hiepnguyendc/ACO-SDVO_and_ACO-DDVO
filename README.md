@@ -1,2 +1,2 @@
-# Formulation 1 considers only one decision variable, i.e. crop type.
+# Formulation 1 for ACO-DDVO considers only one decision variable, i.e. crop type.
 
