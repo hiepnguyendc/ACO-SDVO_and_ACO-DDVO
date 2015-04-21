@@ -1,0 +1,15 @@
+Resevoir Data
+5000.0 	Inital  Storage (GL)
+600.0	Min Storage (GL)
+15000.0 	Max Storage (GL)
+0.7	Evap parameter c1
+0.67	Evap parameter c2
+
+Release Data
+111275	  100178	 84457.0	 	Max allocation/year (ML)
+2500.0
+1500.0
+1000.0
+500.0
+0.0
+100000.0
