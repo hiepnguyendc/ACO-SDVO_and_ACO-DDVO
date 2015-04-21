@@ -1,0 +1,30 @@
+1 decision trees
+Tree 1
+29 number of sub-areas/decision points
+6
+2 seasons
+6 4 1	number of crops in season 1, 2 and both, respectively
+Season 1
+173	maximum area in winter season
+dryland	wheat	gram	mustard	berseem	sugarcane
+4	2	2	2	2	3
+173	173	173	26	173	17	maximum area
+0	0	0	0	17	0	minimum area
+0.0	122.5	147.8 	341.4	7.0	13.5	price of crop
+0.0	2669.8	1117	1699.55	2558.6	5090.48	cost of crop
+
+Season 2
+139	maximum area in summer season
+dryland	sugarcane	cotton	paddy
+4	3	1	1
+173	17	139	139	maximum area
+0	0	0	0	minimum area
+0.0	13.5	401.7	89.0	price of crop
+0.0	5090.48	2362.55	2439.68	cost of crop
+
+sugarcane	crops planted in both of seasons
+
+
+
+
+
