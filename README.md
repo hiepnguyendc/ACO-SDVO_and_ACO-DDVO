@@ -1,4 +1,4 @@
-ACO-DDVO and ACO-SDVO are two tools coded by FORTRAN to support for optimization of irrigation scheduling. They represent the irrigation scheduling problem in the form of a decision tree and use ant colony optimization (ACO) as the optimization engine. While ACO-DDVO can dynamically adjust decision variable options during the optimization process, ACO-SDVO uses static decision variable options and penalty functions. Therefore, ACO-DDVO consistently outperforms ACO-SDVO in terms of solution quality and computational efficiency.
+ACO-DDVO and ACO-SDVO are two tools coded by FORTRAN to support for optimization of crop and water allocation problem. They represent the problem in the form of a decision tree and use ant colony optimization (ACO) as the optimization engine. While ACO-DDVO can dynamically adjust decision variable options during the optimization process, ACO-SDVO uses static decision variable options and penalty functions. Therefore, ACO-DDVO consistently outperforms ACO-SDVO in terms of solution quality and computational efficiency.
 
 Two formulations are considered for ACO-DDVO and ACO-SDVO:
 
